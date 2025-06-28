@@ -59,6 +59,7 @@ It's purely cosmetic — no performance change, no root required. Just style.
 
 ## 🤝 Contributing
 This is a solo hunter's job. No contributions needed — but feel free to drop an issue or suggestion if you find a bug or got an idea.
+Though I stole the `update-binary` from https://t.me/im_the_batman_who_laughs
 
 ## 📜 License
 ```
