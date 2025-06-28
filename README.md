@@ -3,7 +3,7 @@
 ## Description
 Custom BootSplash / BootLogo for Xiaomi devices running Snapdragon chipsets. Swap out that boring stock splash screen with something custom — make your phone boot up with style.
 
-## ⚙️ Tech Stack
+## Tech Stack
 - No programming needed
 - Pre-built `logo.img` files
 - Flashable zips for recovery installs
